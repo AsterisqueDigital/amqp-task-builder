@@ -1,0 +1,15 @@
+*.sublime-project
+
+*.sublime-workspace
+
+*.log
+
+logs/
+
+node_modules/
+
+build/
+
+sftp-config.json
+
+.env
