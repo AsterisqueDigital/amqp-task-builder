@@ -1,6 +1,6 @@
 {
   "name": "amqp-task-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs tool to create amqp tasks",
   "main": "lib",
   "scripts": {
